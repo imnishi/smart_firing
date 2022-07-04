@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "RoboRTS/roborts_camera/uvc",
+		"source" : "RoboRTS/roborts_camera/uvc"
+	}
+}

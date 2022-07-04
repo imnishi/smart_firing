@@ -1,0 +1,831 @@
+{
+	"backtrace" : 4,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_custom_target",
+			"include",
+			"generate_messages",
+			"add_dependencies"
+		],
+		"files" : 
+		[
+			"/home/era/darknet_ws/build/RoboRTS/roborts_msgs/cmake/roborts_msgs-genmsg.cmake",
+			"/opt/ros/noetic/share/genmsg/cmake/genmsg-extras.cmake",
+			"RoboRTS/roborts_msgs/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 56,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 307,
+				"parent" : 1
+			},
+			{
+				"file" : 0,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 1898,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2073,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2076,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2079,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 1905,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 1907,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 1909,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 1911,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 1913,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 1915,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 1917,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 1919,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 1921,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 1923,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 1925,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 1927,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 1929,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 1931,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 1933,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 1935,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 1937,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 1939,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 1941,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 1943,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 1945,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 1947,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 1949,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 1951,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 1953,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 1955,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 1957,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 1959,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 1961,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 1963,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 1965,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 1967,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 1969,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 1971,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 1973,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 1975,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 1977,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 1979,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 1981,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 1983,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 1985,
+				"parent" : 3
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 5,
+			"id" : "std_msgs_generate_messages_py::@3638ad547656606bcd58"
+		},
+		{
+			"backtrace" : 6,
+			"id" : "geometry_msgs_generate_messages_py::@3638ad547656606bcd58"
+		},
+		{
+			"backtrace" : 7,
+			"id" : "nav_msgs_generate_messages_py::@3638ad547656606bcd58"
+		},
+		{
+			"backtrace" : 8,
+			"id" : "_roborts_msgs_generate_messages_check_deps_LocalPlannerAction::@f5f12752ce68e040607e"
+		},
+		{
+			"backtrace" : 9,
+			"id" : "_roborts_msgs_generate_messages_check_deps_LocalPlannerActionGoal::@f5f12752ce68e040607e"
+		},
+		{
+			"backtrace" : 10,
+			"id" : "_roborts_msgs_generate_messages_check_deps_LocalPlannerActionResult::@f5f12752ce68e040607e"
+		},
+		{
+			"backtrace" : 11,
+			"id" : "_roborts_msgs_generate_messages_check_deps_LocalPlannerActionFeedback::@f5f12752ce68e040607e"
+		},
+		{
+			"backtrace" : 12,
+			"id" : "_roborts_msgs_generate_messages_check_deps_LocalPlannerGoal::@f5f12752ce68e040607e"
+		},
+		{
+			"backtrace" : 13,
+			"id" : "_roborts_msgs_generate_messages_check_deps_LocalPlannerResult::@f5f12752ce68e040607e"
+		},
+		{
+			"backtrace" : 14,
+			"id" : "_roborts_msgs_generate_messages_check_deps_LocalPlannerFeedback::@f5f12752ce68e040607e"
+		},
+		{
+			"backtrace" : 15,
+			"id" : "_roborts_msgs_generate_messages_check_deps_GlobalPlannerAction::@f5f12752ce68e040607e"
+		},
+		{
+			"backtrace" : 16,
+			"id" : "_roborts_msgs_generate_messages_check_deps_GlobalPlannerActionGoal::@f5f12752ce68e040607e"
+		},
+		{
+			"backtrace" : 17,
+			"id" : "_roborts_msgs_generate_messages_check_deps_GlobalPlannerActionResult::@f5f12752ce68e040607e"
+		},
+		{
+			"backtrace" : 18,
+			"id" : "_roborts_msgs_generate_messages_check_deps_GlobalPlannerActionFeedback::@f5f12752ce68e040607e"
+		},
+		{
+			"backtrace" : 19,
+			"id" : "_roborts_msgs_generate_messages_check_deps_GlobalPlannerGoal::@f5f12752ce68e040607e"
+		},
+		{
+			"backtrace" : 20,
+			"id" : "_roborts_msgs_generate_messages_check_deps_GlobalPlannerResult::@f5f12752ce68e040607e"
+		},
+		{
+			"backtrace" : 21,
+			"id" : "_roborts_msgs_generate_messages_check_deps_GlobalPlannerFeedback::@f5f12752ce68e040607e"
+		},
+		{
+			"backtrace" : 22,
+			"id" : "_roborts_msgs_generate_messages_check_deps_ArmorDetectionAction::@f5f12752ce68e040607e"
+		},
+		{
+			"backtrace" : 23,
+			"id" : "_roborts_msgs_generate_messages_check_deps_ArmorDetectionActionGoal::@f5f12752ce68e040607e"
+		},
+		{
+			"backtrace" : 24,
+			"id" : "_roborts_msgs_generate_messages_check_deps_ArmorDetectionActionResult::@f5f12752ce68e040607e"
+		},
+		{
+			"backtrace" : 25,
+			"id" : "_roborts_msgs_generate_messages_check_deps_ArmorDetectionActionFeedback::@f5f12752ce68e040607e"
+		},
+		{
+			"backtrace" : 26,
+			"id" : "_roborts_msgs_generate_messages_check_deps_ArmorDetectionGoal::@f5f12752ce68e040607e"
+		},
+		{
+			"backtrace" : 27,
+			"id" : "_roborts_msgs_generate_messages_check_deps_ArmorDetectionResult::@f5f12752ce68e040607e"
+		},
+		{
+			"backtrace" : 28,
+			"id" : "_roborts_msgs_generate_messages_check_deps_ArmorDetectionFeedback::@f5f12752ce68e040607e"
+		},
+		{
+			"backtrace" : 29,
+			"id" : "_roborts_msgs_generate_messages_check_deps_TwistAccel::@f5f12752ce68e040607e"
+		},
+		{
+			"backtrace" : 30,
+			"id" : "_roborts_msgs_generate_messages_check_deps_GimbalAngle::@f5f12752ce68e040607e"
+		},
+		{
+			"backtrace" : 31,
+			"id" : "_roborts_msgs_generate_messages_check_deps_GimbalRate::@f5f12752ce68e040607e"
+		},
+		{
+			"backtrace" : 32,
+			"id" : "_roborts_msgs_generate_messages_check_deps_ObstacleMsg::@f5f12752ce68e040607e"
+		},
+		{
+			"backtrace" : 33,
+			"id" : "_roborts_msgs_generate_messages_check_deps_ShootInfo::@f5f12752ce68e040607e"
+		},
+		{
+			"backtrace" : 34,
+			"id" : "_roborts_msgs_generate_messages_check_deps_ShootState::@f5f12752ce68e040607e"
+		},
+		{
+			"backtrace" : 35,
+			"id" : "_roborts_msgs_generate_messages_check_deps_BonusStatus::@f5f12752ce68e040607e"
+		},
+		{
+			"backtrace" : 36,
+			"id" : "_roborts_msgs_generate_messages_check_deps_GameResult::@f5f12752ce68e040607e"
+		},
+		{
+			"backtrace" : 37,
+			"id" : "_roborts_msgs_generate_messages_check_deps_GameStatus::@f5f12752ce68e040607e"
+		},
+		{
+			"backtrace" : 38,
+			"id" : "_roborts_msgs_generate_messages_check_deps_GameSurvivor::@f5f12752ce68e040607e"
+		},
+		{
+			"backtrace" : 39,
+			"id" : "_roborts_msgs_generate_messages_check_deps_ProjectileSupply::@f5f12752ce68e040607e"
+		},
+		{
+			"backtrace" : 40,
+			"id" : "_roborts_msgs_generate_messages_check_deps_RobotBonus::@f5f12752ce68e040607e"
+		},
+		{
+			"backtrace" : 41,
+			"id" : "_roborts_msgs_generate_messages_check_deps_RobotDamage::@f5f12752ce68e040607e"
+		},
+		{
+			"backtrace" : 42,
+			"id" : "_roborts_msgs_generate_messages_check_deps_RobotHeat::@f5f12752ce68e040607e"
+		},
+		{
+			"backtrace" : 43,
+			"id" : "_roborts_msgs_generate_messages_check_deps_RobotShoot::@f5f12752ce68e040607e"
+		},
+		{
+			"backtrace" : 44,
+			"id" : "_roborts_msgs_generate_messages_check_deps_RobotStatus::@f5f12752ce68e040607e"
+		},
+		{
+			"backtrace" : 45,
+			"id" : "_roborts_msgs_generate_messages_check_deps_SupplierStatus::@f5f12752ce68e040607e"
+		},
+		{
+			"backtrace" : 46,
+			"id" : "_roborts_msgs_generate_messages_check_deps_GimbalMode::@f5f12752ce68e040607e"
+		},
+		{
+			"backtrace" : 47,
+			"id" : "_roborts_msgs_generate_messages_check_deps_FricWhl::@f5f12752ce68e040607e"
+		},
+		{
+			"backtrace" : 48,
+			"id" : "_roborts_msgs_generate_messages_check_deps_ShootCmd::@f5f12752ce68e040607e"
+		}
+	],
+	"id" : "roborts_msgs_generate_messages_py::@f5f12752ce68e040607e",
+	"name" : "roborts_msgs_generate_messages_py",
+	"paths" : 
+	{
+		"build" : "RoboRTS/roborts_msgs",
+		"source" : "RoboRTS/roborts_msgs"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31,
+				32,
+				33,
+				34,
+				35,
+				36,
+				37,
+				38,
+				39,
+				40,
+				41,
+				42,
+				43,
+				44
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 4,
+			"isGenerated" : true,
+			"path" : "/home/era/darknet_ws/build/RoboRTS/roborts_msgs/CMakeFiles/roborts_msgs_generate_messages_py",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/era/darknet_ws/build/RoboRTS/roborts_msgs/CMakeFiles/roborts_msgs_generate_messages_py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/era/darknet_ws/devel/lib/python3/dist-packages/roborts_msgs/msg/_ArmorDetectionAction.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/era/darknet_ws/devel/lib/python3/dist-packages/roborts_msgs/msg/_ArmorDetectionActionFeedback.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/era/darknet_ws/devel/lib/python3/dist-packages/roborts_msgs/msg/_ArmorDetectionActionGoal.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/era/darknet_ws/devel/lib/python3/dist-packages/roborts_msgs/msg/_ArmorDetectionActionResult.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/era/darknet_ws/devel/lib/python3/dist-packages/roborts_msgs/msg/_ArmorDetectionFeedback.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/era/darknet_ws/devel/lib/python3/dist-packages/roborts_msgs/msg/_ArmorDetectionGoal.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/era/darknet_ws/devel/lib/python3/dist-packages/roborts_msgs/msg/_ArmorDetectionResult.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/era/darknet_ws/devel/lib/python3/dist-packages/roborts_msgs/msg/_BonusStatus.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/era/darknet_ws/devel/lib/python3/dist-packages/roborts_msgs/msg/_GameResult.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/era/darknet_ws/devel/lib/python3/dist-packages/roborts_msgs/msg/_GameStatus.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/era/darknet_ws/devel/lib/python3/dist-packages/roborts_msgs/msg/_GameSurvivor.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/era/darknet_ws/devel/lib/python3/dist-packages/roborts_msgs/msg/_GimbalAngle.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/era/darknet_ws/devel/lib/python3/dist-packages/roborts_msgs/msg/_GimbalRate.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/era/darknet_ws/devel/lib/python3/dist-packages/roborts_msgs/msg/_GlobalPlannerAction.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/era/darknet_ws/devel/lib/python3/dist-packages/roborts_msgs/msg/_GlobalPlannerActionFeedback.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/era/darknet_ws/devel/lib/python3/dist-packages/roborts_msgs/msg/_GlobalPlannerActionGoal.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/era/darknet_ws/devel/lib/python3/dist-packages/roborts_msgs/msg/_GlobalPlannerActionResult.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/era/darknet_ws/devel/lib/python3/dist-packages/roborts_msgs/msg/_GlobalPlannerFeedback.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/era/darknet_ws/devel/lib/python3/dist-packages/roborts_msgs/msg/_GlobalPlannerGoal.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/era/darknet_ws/devel/lib/python3/dist-packages/roborts_msgs/msg/_GlobalPlannerResult.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/era/darknet_ws/devel/lib/python3/dist-packages/roborts_msgs/msg/_LocalPlannerAction.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/era/darknet_ws/devel/lib/python3/dist-packages/roborts_msgs/msg/_LocalPlannerActionFeedback.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/era/darknet_ws/devel/lib/python3/dist-packages/roborts_msgs/msg/_LocalPlannerActionGoal.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/era/darknet_ws/devel/lib/python3/dist-packages/roborts_msgs/msg/_LocalPlannerActionResult.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/era/darknet_ws/devel/lib/python3/dist-packages/roborts_msgs/msg/_LocalPlannerFeedback.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/era/darknet_ws/devel/lib/python3/dist-packages/roborts_msgs/msg/_LocalPlannerGoal.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/era/darknet_ws/devel/lib/python3/dist-packages/roborts_msgs/msg/_LocalPlannerResult.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/era/darknet_ws/devel/lib/python3/dist-packages/roborts_msgs/msg/_ObstacleMsg.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/era/darknet_ws/devel/lib/python3/dist-packages/roborts_msgs/msg/_ProjectileSupply.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/era/darknet_ws/devel/lib/python3/dist-packages/roborts_msgs/msg/_RobotBonus.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/era/darknet_ws/devel/lib/python3/dist-packages/roborts_msgs/msg/_RobotDamage.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/era/darknet_ws/devel/lib/python3/dist-packages/roborts_msgs/msg/_RobotHeat.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/era/darknet_ws/devel/lib/python3/dist-packages/roborts_msgs/msg/_RobotShoot.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/era/darknet_ws/devel/lib/python3/dist-packages/roborts_msgs/msg/_RobotStatus.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/era/darknet_ws/devel/lib/python3/dist-packages/roborts_msgs/msg/_ShootInfo.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/era/darknet_ws/devel/lib/python3/dist-packages/roborts_msgs/msg/_ShootState.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/era/darknet_ws/devel/lib/python3/dist-packages/roborts_msgs/msg/_SupplierStatus.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/era/darknet_ws/devel/lib/python3/dist-packages/roborts_msgs/msg/_TwistAccel.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/era/darknet_ws/devel/lib/python3/dist-packages/roborts_msgs/msg/__init__.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/era/darknet_ws/devel/lib/python3/dist-packages/roborts_msgs/srv/_FricWhl.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/era/darknet_ws/devel/lib/python3/dist-packages/roborts_msgs/srv/_GimbalMode.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/era/darknet_ws/devel/lib/python3/dist-packages/roborts_msgs/srv/_ShootCmd.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/era/darknet_ws/devel/lib/python3/dist-packages/roborts_msgs/srv/__init__.py.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

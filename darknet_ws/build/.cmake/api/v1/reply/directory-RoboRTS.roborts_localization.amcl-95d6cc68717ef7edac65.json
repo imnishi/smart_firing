@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "RoboRTS/roborts_localization/amcl",
+		"source" : "RoboRTS/roborts_localization/amcl"
+	}
+}

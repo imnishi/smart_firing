@@ -1,0 +1,8 @@
+prefix=/home/era/darknet_ws/install
+
+Name: darknet_ros
+Description: Description of darknet_ros
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
